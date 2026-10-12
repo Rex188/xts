@@ -41,15 +41,6 @@
         "avatar": "photos/Zhenhao.png",
         "desc": "主导媒体档案归档与大型活动支持",
         "desc_en": "Managed media archives, event logistics, and technical infrastructure."
-      },
-      {
-        "name": "金敏灏",
-        "name_en": "Minhao Jin",
-        "role": "副社长",
-        "role_en": "Vice President",
-        "avatar": "",
-        "desc": "统筹对外交流与跨社团联合报道",
-        "desc_en": "Facilitated inter-club communication, outreach, and collaborative coverage."
       }
     ]
   },
@@ -101,7 +92,7 @@
         "name_en": "Xiaoyu Zhang",
         "role": "副社长",
         "role_en": "Vice President",
-        "avatar": "",
+        "avatar": "photos/xiaoyuzhang.png",
         "desc": "负责社交媒体矩阵运营与新媒体传播",
         "desc_en": "Directed multimedia publications and social media channel operations."
       }
@@ -146,7 +137,7 @@
         "name_en": "Xiaoyu Zhang",
         "role": "副社长",
         "role_en": "Vice President",
-        "avatar": "",
+        "avatar": "photos/xiaoyuzhang.png",
         "desc": "负责社团融媒体传播与对外联络",
         "desc_en": "Directing multimedia outreach, inter-school media partnerships, and digital channels."
       }

@@ -423,16 +423,7 @@ document.addEventListener("DOMContentLoaded", async () => {
       grid.appendChild(card);
     });
 
-    // Re-trigger GSAP card stagger if available
-    if (typeof gsap !== "undefined") {
-      gsap.from(".t-card", {
-        opacity: 0,
-        y: 30,
-        stagger: 0.08,
-        duration: 0.6,
-        ease: "power2.out"
-      });
-    }
+    // Render cards directly without fade-out or opacity flicker
   }
 
   // ============================================================
