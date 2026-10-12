@@ -3,126 +3,153 @@
     "term": "2023-2024学年",
     "year": 2023,
     "theme": "初建与扬帆",
+    "term_en": "2023-2024 Academic Year",
+    "theme_en": "Inception & Foundation",
     "leadership": [
       {
-        "name": "王梓权",
-        "role": "社长",
+        "name": "王梓辁",
+        "name_en": "Ziquan Wang",
+        "role": "第一任社长",
+        "role_en": "Founding President",
         "avatar": "photos/老社长王梓权.jpg",
         "desc": "奠定学通社发展根基，推动校内全媒体融合",
-        "name_en": "Ziquan Wang",
-        "role_en": "Founding President",
         "desc_en": "Pioneered the agency foundation, established cross-media editorial workflows and campus reputation."
       },
       {
         "name": "张哲涵",
-        "role": "副社长",
-        "avatar": "",
-        "desc": "",
         "name_en": "Zhehan Zhang",
+        "role": "副社长",
         "role_en": "Vice President",
-        "desc_en": "Coordinated feature reporting and student interviews."
+        "avatar": "photos/Zhehan.png",
+        "desc": "协助统筹采编部日常采访与策划",
+        "desc_en": "Coordinated feature reporting and student interviews across campus."
       },
       {
         "name": "李怡辰",
-        "role": "副社长",
-        "avatar": "",
-        "desc": "",
         "name_en": "Yichen Li",
+        "role": "副社长",
         "role_en": "Vice President",
-        "desc_en": "Oversaw editorial reviews and content curation."
+        "avatar": "photos/运动会第二社长照片.jpg",
+        "desc": "负责文稿初审与融媒体专题策划",
+        "desc_en": "Oversaw editorial reviews, article curation, and multimedia features."
       },
       {
         "name": "顾正颢",
-        "role": "副社长",
-        "avatar": "",
-        "desc": "",
         "name_en": "Zhenghao Gu",
+        "role": "副社长",
         "role_en": "Vice President",
-        "desc_en": "Managed media archives and event logistics."
+        "avatar": "photos/Zhenhao.png",
+        "desc": "主导媒体档案归档与大型活动支持",
+        "desc_en": "Managed media archives, event logistics, and technical infrastructure."
       },
       {
         "name": "金敏灏",
-        "role": "副社长",
-        "avatar": "",
-        "desc": "",
         "name_en": "Minhao Jin",
+        "role": "副社长",
         "role_en": "Vice President",
-        "desc_en": "Facilitated inter-club communication and outreach."
+        "avatar": "",
+        "desc": "统筹对外交流与跨社团联合报道",
+        "desc_en": "Facilitated inter-club communication, outreach, and collaborative coverage."
       }
-    ],
-    "term_en": "2023-2024 Academic Year",
-    "theme_en": "Inception & Foundation"
+    ]
   },
   {
     "term": "2024-2025学年",
     "year": 2024,
     "theme": "突破与繁盛",
+    "term_en": "2024-2025 Academic Year",
+    "theme_en": "Expansion & Flourish",
     "leadership": [
       {
-        "name": "李子悦",
-        "role": "社长 (文编+视频)",
-        "avatar": "photos/运动会李子悦照片.jpg",
-        "desc": "主持文编与视频采写部工作",
-        "name_en": "Ziyue Li",
+        "name": "李怡辰",
+        "name_en": "Yichen Li",
+        "role": "第二任社长 (文编+视频)",
         "role_en": "President · Editorial & Video",
+        "avatar": "photos/运动会第二社长照片.jpg",
+        "desc": "全面主持文编、视频部工作与校级大型专案",
         "desc_en": "Led the editorial division, video journalism, and major festival media broadcasts."
       },
       {
         "name": "李星逸",
-        "role": "社长 (美编+摄影)",
-        "avatar": "",
-        "desc": "主持视觉传达、海报设计与摄影展映",
         "name_en": "Xingyi Li",
-        "role_en": "President · Visual Design & Photography",
+        "role": "副社长 (美编+摄影)",
+        "role_en": "Vice President · Visual Design & Photography",
+        "avatar": "photos/XingyiLi.png",
+        "desc": "主持视觉传达、海报设计与摄影展映",
         "desc_en": "Directed visual identity, poster designs, and official photo exhibitions."
       },
       {
-        "name": "李鋆灏",
+        "name": "李子悦",
+        "name_en": "Ziyue Li",
         "role": "副社长",
-        "avatar": "",
-        "desc": "",
-        "name_en": "Junhao Li",
         "role_en": "Vice President",
-        "desc_en": "Managed sports reporting and field photography logistics."
+        "avatar": "photos/运动会李子悦照片.jpg",
+        "desc": "组织活动策划、宣传推广与大型外勤保障",
+        "desc_en": "Coordinated event planning, outreach campaigns, and event logistics."
+      },
+      {
+        "name": "李鋆灏",
+        "name_en": "Junhao Li",
+        "role": "副社长",
+        "role_en": "Vice President",
+        "avatar": "photos/Junhao_Li.png",
+        "desc": "统筹体育节现场采写与一线摄影调度",
+        "desc_en": "Managed sports reporting, athletic field coverage, and photography dispatch."
       },
       {
         "name": "张效瑜",
-        "role": "副社长",
-        "avatar": "",
-        "desc": "",
         "name_en": "Xiaoyu Zhang",
+        "role": "副社长",
         "role_en": "Vice President",
-        "desc_en": "Led multimedia publications and social media channel operations."
-      },
-      {
-        "name": "杨琳",
-        "role": "财务主管",
         "avatar": "",
-        "desc": "",
-        "name_en": "Lin Yang",
-        "role_en": "Finance & Operations Lead",
-        "desc_en": "Managed budget allocation, charity bazaar accounting, and merchandise procurement."
+        "desc": "负责社交媒体矩阵运营与新媒体传播",
+        "desc_en": "Directed multimedia publications and social media channel operations."
       }
-    ],
-    "term_en": "2024-2025 Academic Year",
-    "theme_en": "Expansion & Flourish"
+    ]
   },
   {
     "term": "2026-2027学年",
     "year": 2026,
     "theme": "传承与新程",
+    "term_en": "2026-2027 Academic Year",
+    "theme_en": "Succession & New Frontiers",
     "leadership": [
       {
-        "name": "新双社长",
-        "role": "双社长",
-        "avatar": "photos/2026-2027招新双社长.jpg",
-        "desc": "接过接力棒，开启新一轮全媒体创新",
-        "name_en": "Dual Presidents",
-        "role_en": "Executive Co-Presidents",
-        "desc_en": "Spearheading the new era of autonomous reporting, interactive journalism, and visual storytelling."
+        "name": "李星逸",
+        "name_en": "Xingyi Li",
+        "role": "双社长之一 (美编+摄影)",
+        "role_en": "Co-President · Visual Design & Photography",
+        "avatar": "photos/XingyiLi.png",
+        "desc": "主持视觉传达设计、海报创制与摄影展映体系",
+        "desc_en": "Leading visual identity, official posters, branding, and photography curation."
+      },
+      {
+        "name": "李子悦",
+        "name_en": "Ziyue Li",
+        "role": "双社长之一 (活动+策划)",
+        "role_en": "Co-President · Operations & Events",
+        "avatar": "photos/运动会李子悦照片.jpg",
+        "desc": "统筹社团日常运营、重大活动策划与全媒体采编",
+        "desc_en": "Directing overall agency operations, event strategies, and editorial initiatives."
+      },
+      {
+        "name": "李鋆灏",
+        "name_en": "Junhao Li",
+        "role": "副社长",
+        "role_en": "Vice President",
+        "avatar": "photos/Junhao_Li.png",
+        "desc": "负责重大活动执行与现场采写统筹",
+        "desc_en": "Overseeing event execution, field reporting, and staff coordination."
+      },
+      {
+        "name": "张效瑜",
+        "name_en": "Xiaoyu Zhang",
+        "role": "副社长",
+        "role_en": "Vice President",
+        "avatar": "",
+        "desc": "负责社团融媒体传播与对外联络",
+        "desc_en": "Directing multimedia outreach, inter-school media partnerships, and digital channels."
       }
-    ],
-    "term_en": "2026-2027 Academic Year",
-    "theme_en": "Succession & New Frontiers"
+    ]
   }
 ]
