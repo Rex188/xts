@@ -26,16 +26,6 @@ document.addEventListener("DOMContentLoaded", async () => {
     console.log("Loaded bundled offline data successfully.");
   }
 
-  // Initialize UI components
-  initHeroAnimations();
-  initStatsCounter();
-  renderTimeline(activitiesData);
-  initTimelineFilters();
-  renderMembers(membersData);
-  initImmersiveModal();
-  initLightbox();
-  initSmoothScrollNav();
-
   // ============================================================
   // 1. HERO ANIMATIONS (GSAP & PARALLAX)
   // ============================================================
@@ -610,4 +600,14 @@ document.addEventListener("DOMContentLoaded", async () => {
       });
     });
   }
+
+  // Initialize UI only after the DOM references and component functions are ready.
+  initHeroAnimations();
+  initStatsCounter();
+  renderTimeline(activitiesData);
+  initTimelineFilters();
+  renderMembers(membersData);
+  initImmersiveModal();
+  initLightbox();
+  initSmoothScrollNav();
 });
