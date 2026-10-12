@@ -293,10 +293,6 @@ document.addEventListener("DOMContentLoaded", async () => {
       const summary = ev.summary_en || ev.summary || ev.description;
       const cover = ev.cover || (ev.photos && ev.photos[0] ? ev.photos[0].path : "");
 
-      const keyPersonsStr =
-        ev.keyPersons && ev.keyPersons.length > 0
-          ? `Featuring: ${ev.keyPersons.join(", ")}`
-          : "Full Media Delegation";
 
       card.innerHTML = `
         <div class="event-cover-wrap">
@@ -318,7 +314,6 @@ document.addEventListener("DOMContentLoaded", async () => {
           <h3 class="event-title">${title}</h3>
           <p class="event-summary">${summary}</p>
           <div class="event-footer">
-            <span class="event-key-persons">${keyPersonsStr}</span>
             <span class="event-open-cta">
               Explore Gallery
               <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5">
