@@ -764,6 +764,10 @@ body {
   object-position: top 0% center;
 }
 
+.t-avatar-wrap img[src*="新年义卖装货_李子悦"] {
+  object-position: 55% 40%;
+}
+
 .t-card:hover .t-avatar-wrap img {
   transform: scale(1.05);
 }
