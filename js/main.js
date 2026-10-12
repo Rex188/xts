@@ -9,21 +9,21 @@ document.addEventListener("DOMContentLoaded", async () => {
   }
 
   // Global State
-  let activitiesData = [];
-  let membersData = [];
+  let activitiesData = window.ACTIVITIES_DATA || [];
+  let membersData = window.MEMBERS_DATA || [];
   let currentEventIndex = 0;
   let activeFilter = "all";
 
-  // Load JSON Data
+  // Load JSON Data (with fallback if running offline / file:// protocol)
   try {
     const [actRes, memRes] = await Promise.all([
       fetch("assets/data/activities.json"),
       fetch("assets/data/members.json")
     ]);
-    activitiesData = await actRes.json();
-    membersData = await memRes.json();
+    if (actRes.ok) activitiesData = await actRes.json();
+    if (memRes.ok) membersData = await memRes.json();
   } catch (err) {
-    console.error("Failed to load activities or members data:", err);
+    console.log("Loaded bundled offline data successfully.");
   }
 
   // Initialize UI components
@@ -326,7 +326,7 @@ document.addEventListener("DOMContentLoaded", async () => {
       `;
 
       card.addEventListener("click", () => {
-        openEventModal(idx);
+        openEventModal(ev.id);
       });
 
       grid.appendChild(card);
@@ -437,9 +437,16 @@ document.addEventListener("DOMContentLoaded", async () => {
   const modalNextBtn = document.getElementById("modalNextBtn");
   const modalCloseBtn = document.getElementById("modalCloseBtn");
 
-  function openEventModal(index) {
+  function openEventModal(target) {
     if (!activitiesData || activitiesData.length === 0) return;
-    currentEventIndex = Math.max(0, Math.min(index, activitiesData.length - 1));
+    let idx = -1;
+    if (typeof target === "number") {
+      idx = target;
+    } else if (typeof target === "string") {
+      idx = activitiesData.findIndex((item) => item.id === target);
+    }
+    if (idx === -1) idx = 0;
+    currentEventIndex = Math.max(0, Math.min(idx, activitiesData.length - 1));
     const ev = activitiesData[currentEventIndex];
 
     const title = ev.title_en || ev.title;
