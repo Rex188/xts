@@ -1,50 +1,88 @@
 [
   {
-    "term": "2023-2024届",
+    "term": "2023-2024学年",
     "year": 2023,
-    "departments": [
+    "theme": "初建与扬帆",
+    "leadership": [
       {
-        "name": "社长团 / 编委会",
-        "members": [
-          { "name": "张三", "role": "社长", "avatar": "assets/images/members/avatar-placeholder.jpg" },
-          { "name": "李四", "role": "副社长 / 采写部部长", "avatar": "assets/images/members/avatar-placeholder.jpg" }
-        ]
+        "name": "王梓权",
+        "role": "社长",
+        "avatar": "photos/老社长王梓权.jpg",
+        "desc": "奠定学通社发展根基，推动校内全媒体融合"
       },
       {
-        "name": "采编部",
-        "members": [
-          { "name": "王五", "role": "骨干记者", "avatar": "assets/images/members/avatar-placeholder.jpg" }
-        ]
+        "name": "张哲涵",
+        "role": "副社长",
+        "avatar": "",
+        "desc": ""
       },
       {
-        "name": "摄制视觉部",
-        "members": [
-          { "name": "赵六", "role": "摄影总监", "avatar": "assets/images/members/avatar-placeholder.jpg" }
-        ]
+        "name": "李怡辰",
+        "role": "副社长",
+        "avatar": "",
+        "desc": ""
+      },
+      {
+        "name": "顾正颢",
+        "role": "副社长",
+        "avatar": "",
+        "desc": ""
+      },
+      {
+        "name": "金敏灏",
+        "role": "副社长",
+        "avatar": "",
+        "desc": ""
       }
     ]
   },
   {
-    "term": "2024-2025届",
+    "term": "2024-2025学年",
     "year": 2024,
-    "departments": [
+    "theme": "突破与繁盛",
+    "leadership": [
       {
-        "name": "社长团 / 编委会",
-        "members": [
-          { "name": "李四", "role": "社长", "avatar": "assets/images/members/avatar-placeholder.jpg" }
-        ]
+        "name": "李子悦",
+        "role": "社长 (文编+视频)",
+        "avatar": "photos/运动会李子悦照片.jpg",
+        "desc": "主持文编与视频采写部工作"
       },
       {
-        "name": "采编部",
-        "members": [
-          { "name": "钱七", "role": "采编部部长", "avatar": "assets/images/members/avatar-placeholder.jpg" }
-        ]
+        "name": "李星逸",
+        "role": "社长 (美编+摄影)",
+        "avatar": "",
+        "desc": "主持视觉传达、海报设计与摄影展映"
       },
       {
-        "name": "摄制视觉部",
-        "members": [
-          { "name": "孙八", "role": "视觉部部长", "avatar": "assets/images/members/avatar-placeholder.jpg" }
-        ]
+        "name": "李鋆灏",
+        "role": "副社长",
+        "avatar": "",
+        "desc": ""
+      },
+      {
+        "name": "张效瑜",
+        "role": "副社长",
+        "avatar": "",
+        "desc": ""
+      },
+      {
+        "name": "杨琳",
+        "role": "财务主管",
+        "avatar": "",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "term": "2026-2027学年",
+    "year": 2026,
+    "theme": "传承与新程",
+    "leadership": [
+      {
+        "name": "新双社长",
+        "role": "双社长",
+        "avatar": "photos/2026-2027招新双社长.jpg",
+        "desc": "接过接力棒，开启新一轮全媒体创新"
       }
     ]
   }
