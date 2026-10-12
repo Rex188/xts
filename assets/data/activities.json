@@ -7,7 +7,7 @@
     "category": "社团招新",
     "cover": "photos/2023-2024招新.jpg",
     "summary": "2023学年社团招新全面启动，老社长带队开拓社团新篇章。",
-    "description": "",
+    "description": "The agency launched its annual recruitment drive under Founding President Ziquan Wang, inaugurating a new chapter in campus journalism.",
     "keyPersons": [
       "Ziquan Wang"
     ],
@@ -26,7 +26,11 @@
         "orientation": "vertical",
         "description": "Portrait of the former president, Ziquan Wang."
       }
-    ]
+    ],
+    "title_en": "2023-2024 Academic Year Recruitment & Inception",
+    "category_en": "Club Recruitment",
+    "date_en": "Fall 2023",
+    "summary_en": "The agency launched its annual recruitment drive under Founding President Ziquan Wang, inaugurating a new chapter in campus journalism."
   },
   {
     "id": "event-2024-recruitment",
@@ -36,7 +40,7 @@
     "category": "社团招新",
     "cover": "photos/2024-2025招新.png",
     "summary": "新老交替，开启2024-2025学年度社团新征程。",
-    "description": "",
+    "description": "Welcoming a new wave of student journalists and photographers, carrying forward the agency tradition with fresh perspectives.",
     "keyPersons": [
       "Ziquan Wang"
     ],
@@ -55,7 +59,11 @@
         "orientation": "horizontal",
         "description": "Photo of Ziquan Wang, the former president, at the 2024-2025 recruitment event."
       }
-    ]
+    ],
+    "title_en": "2024-2025 Academic Year Recruitment Assembly",
+    "category_en": "Club Recruitment",
+    "date_en": "Fall 2024",
+    "summary_en": "Welcoming a new wave of student journalists and photographers, carrying forward the agency tradition with fresh perspectives."
   },
   {
     "id": "event-2024-sports",
@@ -99,7 +107,11 @@
         "orientation": "vertical",
         "description": "Photo of the second president (Yichen Li) at the 2024 school sports festival."
       }
-    ]
+    ],
+    "title_en": "2024 Annual Sports Festival Field Coverage & Group Photo",
+    "category_en": "Sports Coverage",
+    "date_en": "Autumn 2024",
+    "summary_en": "Reporters and photographers were stationed across the track and field, capturing high-octane athletic moments and the complete team portrait."
   },
   {
     "id": "event-2024-photo-events",
@@ -133,7 +145,11 @@
         "orientation": "vertical",
         "description": "Official promotional poster for the Students' Agency Club."
       }
-    ]
+    ],
+    "title_en": "2024 Live Photography Showcase & Agency Branding",
+    "category_en": "Visual Arts",
+    "date_en": "Year 2024",
+    "summary_en": "Capturing authentic campus life and crafting official visual posters that embody the voice and vision of our student media."
   },
   {
     "id": "event-2024-winter-salon",
@@ -153,7 +169,11 @@
         "orientation": "vertical",
         "description": "Poster for the 2024 winter movie salon."
       }
-    ]
+    ],
+    "title_en": "2024 Winter Cinema & Film Salon",
+    "category_en": "Cultural Salon",
+    "date_en": "Winter 2024",
+    "summary_en": "An evening salon dedicated to film aesthetics, cinematography, and cinematic storytelling shared among media enthusiasts."
   },
   {
     "id": "event-2024-winter-contest",
@@ -173,7 +193,11 @@
         "orientation": "vertical",
         "description": "A stunning photograph capturing the essence of 'Good Light Scenery' during the 2024 winter photography contest."
       }
-    ]
+    ],
+    "title_en": "2024 Winter Photography Contest: \"Good Times\"",
+    "category_en": "Campus Contest",
+    "date_en": "Winter 2024",
+    "summary_en": "A campus-wide photo competition inviting students to capture fleeting moments of beauty, sunlight, and friendship."
   },
   {
     "id": "event-2024-year-end",
@@ -193,7 +217,11 @@
         "orientation": "horizontal",
         "description": "A warm and joyful group photo from the 2024 year-end gathering of the Students' Agency Club."
       }
-    ]
+    ],
+    "title_en": "2024 Year-End Team Gathering & Celebration",
+    "category_en": "Community & Gathering",
+    "date_en": "Year-End 2024",
+    "summary_en": "Celebrating a year of prolific publications, milestones, and camaraderie over a joyful year-end banquet."
   },
   {
     "id": "event-2025-newyear-charity",
@@ -243,7 +271,11 @@
         "orientation": "horizontal",
         "description": "Photo of Ziyue Li at the 2025 new year charity sale packing and loading."
       }
-    ]
+    ],
+    "title_en": "2025 New Year Celebration & Charity Bazaar",
+    "category_en": "Public Welfare & Goods",
+    "date_en": "New Year 2025",
+    "summary_en": "Hand-written greeting cards, custom merchandise packing, and volunteer logistics for the annual campus charity bazaar."
   },
   {
     "id": "event-2025-recruitment",
@@ -263,7 +295,11 @@
         "orientation": "vertical",
         "description": "Official promotional poster for the 2025-2026 recruitment campaign."
       }
-    ]
+    ],
+    "title_en": "2025-2026 Academic Year Recruitment Campaign",
+    "category_en": "Club Recruitment",
+    "date_en": "Fall 2025",
+    "summary_en": "\"Between Light and Shadow, We Harvest Stories.\" A vibrant call for incoming students passionate about writing, editing, and photography."
   },
   {
     "id": "event-2026-recruitment",
@@ -300,7 +336,11 @@
         "orientation": "horizontal",
         "description": "Behind-the-scenes photos from the 2026-2027 recruitment event for the Students' Agency Club."
       }
-    ]
+    ],
+    "title_en": "2026-2027 Recruitment & Dual-President Handover",
+    "category_en": "Club Recruitment",
+    "date_en": "Year 2026",
+    "summary_en": "The next generation of dual presidents stepped forward at the recruitment booths, ushering the agency into an exciting era."
   },
   {
     "id": "event-merchandise",
@@ -376,6 +416,10 @@
         "orientation": "vertical",
         "description": "A collection of memorable moments captured during the 2026-2027 recruitment event for the Students' Agency Club."
       }
-    ]
+    ],
+    "title_en": "Exclusive Original Cultural & Creative Merchandise",
+    "category_en": "Merchandise Series",
+    "date_en": "Special Collection",
+    "summary_en": "Reversal film strips, commemorative jigsaw puzzles, customized meal card sleeves, and data cables turning campus memories into tangible souvenirs."
   }
 ]
