@@ -1,0 +1,38 @@
+[
+  {
+    "id": "act-2023-01",
+    "year": 2023,
+    "date": "2023-09",
+    "title": "2023秋季纳新与初见会",
+    "category": "内部建设",
+    "summary": "新一届通讯社迎来了新鲜血液，开启全媒体融合采编新篇章。",
+    "coverImage": "assets/images/activities/2023-welcome.jpg"
+  },
+  {
+    "id": "act-2023-02",
+    "year": 2023,
+    "date": "2023-11",
+    "title": "年度校园深度专题策划",
+    "category": "采写报道",
+    "summary": "走访校史馆与各院系学者，推出多篇反响热烈的原创深度专题。",
+    "coverImage": "assets/images/activities/2023-report.jpg"
+  },
+  {
+    "id": "act-2024-01",
+    "year": 2024,
+    "date": "2024-05",
+    "title": "五四青年节特辑与视觉展映",
+    "category": "摄影视觉",
+    "summary": "用镜头捕捉青年身影，举办线上主题摄影画廊展。",
+    "coverImage": "assets/images/activities/2024-youth.jpg"
+  },
+  {
+    "id": "act-2024-02",
+    "year": 2024,
+    "date": "2024-10",
+    "title": "学通社换届大会与技能工作坊",
+    "category": "团队换届",
+    "summary": "薪火相传，完成了新老骨干交接，并开展摄影与采访采编集训。",
+    "coverImage": "assets/images/activities/2024-handover.jpg"
+  }
+]

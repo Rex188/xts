@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "title": "2023秋季全员大合照",
+    "year": 2023,
+    "category": "团队合影",
+    "src": "assets/images/gallery/photo-01.jpg",
+    "orientation": "horizontal",
+    "speed": 2
+  },
+  {
+    "id": 2,
+    "title": "运动会现场一线抓拍",
+    "year": 2023,
+    "category": "采风纪实",
+    "src": "assets/images/gallery/photo-02.jpg",
+    "orientation": "vertical",
+    "speed": 1
+  },
+  {
+    "id": 3,
+    "title": "专访时刻",
+    "year": 2024,
+    "category": "深度人物",
+    "src": "assets/images/gallery/photo-03.jpg",
+    "orientation": "horizontal",
+    "speed": 3
+  }
+]

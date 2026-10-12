@@ -1,0 +1,51 @@
+[
+  {
+    "term": "2023-2024届",
+    "year": 2023,
+    "departments": [
+      {
+        "name": "社长团 / 编委会",
+        "members": [
+          { "name": "张三", "role": "社长", "avatar": "assets/images/members/avatar-placeholder.jpg" },
+          { "name": "李四", "role": "副社长 / 采写部部长", "avatar": "assets/images/members/avatar-placeholder.jpg" }
+        ]
+      },
+      {
+        "name": "采编部",
+        "members": [
+          { "name": "王五", "role": "骨干记者", "avatar": "assets/images/members/avatar-placeholder.jpg" }
+        ]
+      },
+      {
+        "name": "摄制视觉部",
+        "members": [
+          { "name": "赵六", "role": "摄影总监", "avatar": "assets/images/members/avatar-placeholder.jpg" }
+        ]
+      }
+    ]
+  },
+  {
+    "term": "2024-2025届",
+    "year": 2024,
+    "departments": [
+      {
+        "name": "社长团 / 编委会",
+        "members": [
+          { "name": "李四", "role": "社长", "avatar": "assets/images/members/avatar-placeholder.jpg" }
+        ]
+      },
+      {
+        "name": "采编部",
+        "members": [
+          { "name": "钱七", "role": "采编部部长", "avatar": "assets/images/members/avatar-placeholder.jpg" }
+        ]
+      },
+      {
+        "name": "摄制视觉部",
+        "members": [
+          { "name": "孙八", "role": "视觉部部长", "avatar": "assets/images/members/avatar-placeholder.jpg" }
+        ]
+      }
+    ]
+  }
+]
