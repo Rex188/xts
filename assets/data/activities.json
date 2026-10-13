@@ -2,11 +2,11 @@
   {
     "id": "event-2023-recruitment",
     "year": 2023,
-    "date": "2023年 秋季",
-    "title": "2023-2024学年 招新与初建",
-    "category": "社团招新",
+    "date": "Fall 2023",
+    "title": "2023-2024 Academic Year Recruitment & Inception",
+    "category": "Club Recruitment",
     "cover": "photos/2023-2024招新.jpg",
-    "summary": "2023学年社团招新全面启动，老社长带队开拓社团新篇章。",
+    "summary": "The agency launched its annual recruitment drive under founding president Ziquan Wang, opening a new chapter in campus journalism.",
     "description": "The agency launched its annual recruitment drive under Founding President Ziquan Wang, inaugurating a new chapter in campus journalism.",
     "keyPersons": [
       "Ziquan Wang"
@@ -14,14 +14,14 @@
     "photos": [
       {
         "filename": "2023-2024招新.jpg",
-        "title": "2023-2024招新海报",
+        "title": "2023-2024 Recruitment Poster",
         "path": "photos/2023-2024招新.jpg",
         "orientation": "vertical",
         "description": "THe poster for the 2023-2024 recruitment event, featuring a vibrant design and key information about the event."
       },
       {
         "filename": "老社长王梓权.jpg",
-        "title": "老社长王梓权肖像",
+        "title": "Portrait of Founding President Ziquan Wang",
         "path": "photos/老社长王梓权.jpg",
         "orientation": "vertical",
         "description": "Portrait of the former president, Ziquan Wang."
@@ -35,11 +35,11 @@
   {
     "id": "event-2024-recruitment",
     "year": 2024,
-    "date": "2024年 秋季",
-    "title": "2024-2025学年 招新大会",
-    "category": "社团招新",
+    "date": "Fall 2024",
+    "title": "2024-2025 Academic Year Recruitment Assembly",
+    "category": "Club Recruitment",
     "cover": "photos/2024-2025招新.png",
-    "summary": "新老交替，开启2024-2025学年度社团新征程。",
+    "summary": "As one generation passed the torch, the agency began a new chapter for the 2024-2025 academic year.",
     "description": "Welcoming a new wave of student journalists and photographers, carrying forward the agency tradition with fresh perspectives.",
     "keyPersons": [
       "Ziquan Wang"
@@ -47,14 +47,14 @@
     "photos": [
       {
         "filename": "2024-2025招新.png",
-        "title": "2024-2025招新海报",
+        "title": "2024-2025 Recruitment Poster",
         "path": "photos/2024-2025招新.png",
         "orientation": "vertical",
         "description": "Recuiting new members for the 2024-2025 academic year, featuring a visually appealing poster design."
       },
       {
         "filename": "2024-2025招新老社长.jpg",
-        "title": "2024-2025招新现场老社长",
+        "title": "Founding President at the 2024-2025 Recruitment Event",
         "path": "photos/2024-2025招新老社长.jpg",
         "orientation": "horizontal",
         "description": "Photo of Ziquan Wang, the former president, at the 2024-2025 recruitment event."
@@ -68,44 +68,44 @@
   {
     "id": "event-2024-sports",
     "year": 2024,
-    "date": "2024年 体育节",
-    "title": "2024年 校运会现场采写与大合照",
-    "category": "大型赛事报道",
+    "date": "Sports Festival 2024",
+    "title": "2024 Sports Festival Coverage & Group Photo",
+    "category": "Sports Coverage",
     "cover": "photos/2024运动会大合照.jpg",
-    "summary": "学通社全员深入校运会一线，捕捉精彩瞬间并留下珍贵大合照。",
+    "summary": "Agency members covered the Sports Festival from the field, capturing memorable moments and a portrait of the team.",
     "description": "The photo captures the vibrant atmosphere of the 2024 school sports festival, showcasing the dedication and teamwork of the XueTongShe members as they document the event and create lasting memories.",
     "keyPersons": [
       "Yichen Li",
-      "第二任社长"
+      "Second President"
     ],
     "photos": [
       {
         "filename": "2024运动会大合照.jpg",
-        "title": "2024运动会大合照",
+        "title": "2024 Sports Festival Group Photo",
         "path": "photos/2024运动会大合照.jpg",
         "orientation": "horizontal",
         "description": "This is the group photo of all Students' Agency Club members at the 2024 school sports festival, capturing the spirit and camaraderie of the team."
       },
       {
         "filename": "2024运动会第二任社长.jpg",
-        "title": "2024运动会第二任社长",
+        "title": "Second President at the 2024 Sports Festival",
         "path": "photos/2024运动会第二任社长.jpg",
         "orientation": "horizontal",
         "description": "Photo of the current president at the 2024 school sports festival."
       },
       {
-        "filename": "运动会李子悦照片.jpg",
-        "title": "运动会现场工作照 (李子悦)",
-        "path": "photos/运动会李子悦照片.jpg",
+        "filename": "2024运动会李子悦照片.jpg",
+        "title": "Ziyue Li Covering the Sports Festival",
+        "path": "photos/2024运动会李子悦照片.jpg",
         "orientation": "horizontal",
         "description": "Photo of Ziyue Li documenting the 2024 school sports festival."
       },
       {
-        "filename": "运动会第二社长照片.jpg",
-        "title": "运动会现场工作照 (第二社长)",
-        "path": "photos/运动会第二社长照片.jpg",
+        "filename": "2024李怡辰照片.jpg",
+        "title": "Yichen Li Covering the Sports Festival",
+        "path": "photos/2024李怡辰照片.jpg",
         "orientation": "vertical",
-        "description": "Photo of the second president (Yichen Li) at the 2024 school sports festival."
+        "description": "Photo of Yichen Li at the 2024 school sports festival."
       }
     ],
     "title_en": "2024 Annual Sports Festival Field Coverage & Group Photo",
@@ -116,31 +116,31 @@
   {
     "id": "event-2024-photo-events",
     "year": 2024,
-    "date": "2024年 摄影特辑",
-    "title": "2024 现场摄影采风与社团宣传",
-    "category": "视觉展映",
+    "date": "Photography Showcase 2024",
+    "title": "2024 Live Photography & Agency Promotion",
+    "category": "Visual Arts",
     "cover": "photos/2024学通社宣传照.jpg",
-    "summary": "镜头聚焦校园，打造学通社专属视觉风格海报与纪实宣传。",
+    "summary": "A campus photography feature pairing documentary images with the agency’s distinctive visual identity.",
     "description": "This is a screenshot from the micro-documentary video produced by the Students' Agency Club, showcasing the club's unique visual style and promotional efforts during the 2024 on-site photography event.",
     "keyPersons": [],
     "photos": [
       {
         "filename": "2024现场摄影活动.png",
-        "title": "2024现场摄影活动",
+        "title": "Live Photography Event 2024",
         "path": "photos/2024现场摄影活动.png",
         "orientation": "vertical",
         "description": "The live photography event in 2024, capturing the essence of the Students' Agency Club's activities and the vibrant campus life."
       },
       {
         "filename": "2024学通社宣传照.jpg",
-        "title": "2024学通社宣传照",
+        "title": "Agency Promotional Photo 2024",
         "path": "photos/2024学通社宣传照.jpg",
         "orientation": "horizontal",
         "description": "Promotional photo for the 2024 Students' Agency Club campaign."
       },
       {
         "filename": "学通社宣传海报.png",
-        "title": "学通社官方宣传海报",
+        "title": "Official Agency Poster",
         "path": "photos/学通社宣传海报.png",
         "orientation": "vertical",
         "description": "Official promotional poster for the Students' Agency Club."
@@ -154,17 +154,17 @@
   {
     "id": "event-2024-winter-salon",
     "year": 2024,
-    "date": "2024年 冬季",
-    "title": "2024 冬季电影沙龙",
-    "category": "学术与文化沙龙",
+    "date": "Winter 2024",
+    "title": "2024 Winter Film Salon",
+    "category": "Cultural Salon",
     "cover": "photos/2024冬季电影沙龙.jpg",
-    "summary": "围绕光影与影像表达展开的冬季主题学术分享。",
+    "summary": "A winter discussion of cinematography, visual expression, and storytelling.",
     "description": "The movie Salon in winter 2024, focusing on the art of cinematography and visual storytelling, providing a platform for academic discussion and cultural exchange.",
     "keyPersons": [],
     "photos": [
       {
         "filename": "2024冬季电影沙龙.jpg",
-        "title": "2024冬季电影沙龙海报",
+        "title": "2024 Winter Film Salon Poster",
         "path": "photos/2024冬季电影沙龙.jpg",
         "orientation": "vertical",
         "description": "Poster for the 2024 winter movie salon."
@@ -178,17 +178,17 @@
   {
     "id": "event-2024-winter-contest",
     "year": 2024,
-    "date": "2024年 冬季",
-    "title": "2024 冬季摄影比赛「好光景」",
-    "category": "品牌赛事",
+    "date": "Winter 2024",
+    "title": "2024 Winter Photography Contest: “Good Times”",
+    "category": "Photography Contest",
     "cover": "photos/2024冬季摄影比赛（好光景）.jpg",
-    "summary": "面向全校征集优秀摄影作品，记录校园中的好光景。",
+    "summary": "A school-wide photography contest celebrating moments of beauty across campus.",
     "description": "The 2024 winter photography contest, themed 'Good Light Scenery', invites submissions from the entire school to capture the beauty of campus life.",
     "keyPersons": [],
     "photos": [
       {
         "filename": "2024冬季摄影比赛（好光景）.jpg",
-        "title": "2024冬季摄影比赛（好光景）",
+        "title": "2024 Winter Photography Contest: Good Times",
         "path": "photos/2024冬季摄影比赛（好光景）.jpg",
         "orientation": "vertical",
         "description": "A stunning photograph capturing the essence of 'Good Light Scenery' during the 2024 winter photography contest."
@@ -202,17 +202,17 @@
   {
     "id": "event-2024-year-end",
     "year": 2024,
-    "date": "2024年 岁末",
-    "title": "2024 年末全员聚会",
-    "category": "团建聚会",
+    "date": "Year-End 2024",
+    "title": "2024 Year-End Team Gathering",
+    "category": "Team Gathering",
     "cover": "photos/2024年末聚会.jpg",
-    "summary": "岁末欢聚，总结一年的采编硕果，共享温暖时刻。",
+    "summary": "A year-end gathering to celebrate the team’s work and share a warm moment together.",
     "description": "The year-end gathering of the Students' Agency Club in 2024, celebrating the achievements of the year and fostering camaraderie among members.",
     "keyPersons": [],
     "photos": [
       {
         "filename": "2024年末聚会.jpg",
-        "title": "2024年末全员聚会温馨合影",
+        "title": "Team Photo from the 2024 Year-End Gathering",
         "path": "photos/2024年末聚会.jpg",
         "orientation": "horizontal",
         "description": "A warm and joyful group photo from the 2024 year-end gathering of the Students' Agency Club."
@@ -226,11 +226,11 @@
   {
     "id": "event-2025-newyear-charity",
     "year": 2025,
-    "date": "2025年 元旦/新春",
-    "title": "2025 新年活动与爱心义卖",
-    "category": "公益与文创",
+    "date": "New Year 2025",
+    "title": "2025 New Year Celebration & Charity Bazaar",
+    "category": "Charity & Merchandise",
     "cover": "photos/2025新年活动.jpg",
-    "summary": "手写贺卡、周边装车打包，为新春义卖奉献传媒力量。",
+    "summary": "Members prepared handwritten cards and agency merchandise for the New Year charity bazaar.",
     "description": "The 2025 new year event and charity sale, where members of the Students' Agency Club contributed their media skills to promote the cause.",
     "keyPersons": [
       "Ziyue Li"
@@ -238,38 +238,73 @@
     "photos": [
       {
         "filename": "2025新年活动.jpg",
-        "title": "2025新年活动海报",
+        "title": "2025 New Year Event Poster",
         "path": "photos/2025新年活动.jpg",
         "orientation": "vertical",
         "description": "Poster for the 2025 new year event and charity sale."
       },
       {
-        "filename": "新年义卖手写贺卡.jpg",
-        "title": "新年义卖手写贺卡特写",
-        "path": "photos/新年义卖手写贺卡.jpg",
-        "orientation": "horizontal",
-        "description": "Close-up of the hand-written greeting cards created for the 2025 new year charity sale."
-      },
-      {
-        "filename": "新年义卖装货.jpg",
-        "title": "新年义卖装货打包现场",
-        "path": "photos/新年义卖装货.jpg",
-        "orientation": "horizontal",
-        "description": "Scene of the 2025 new year charity sale packing and loading."
-      },
-      {
-        "filename": "新年义卖装货1.jpg",
-        "title": "新年义卖装货全景",
-        "path": "photos/新年义卖装货1.jpg",
+        "filename": "2025周边汇总照片.jpg",
+        "title": "Agency Merchandise Collection",
+        "path": "photos/2025周边汇总照片.jpg",
         "orientation": "vertical",
-        "description": "Panoramic view of the 2025 new year charity sale packing and loading."
+        "description": "A comprehensive showcase of all the original cultural and creative products."
       },
       {
-        "filename": "新年义卖装货_李子悦.jpg",
-        "title": "义卖装货现场 (李子悦)",
-        "path": "photos/新年义卖装货_李子悦.jpg",
+        "filename": "2025周边反转胶片.jpg",
+        "title": "Merchandise: Reversal Film Card",
+        "path": "photos/2025周边反转胶片.jpg",
         "orientation": "horizontal",
-        "description": "Photo of Ziyue Li at the 2025 new year charity sale packing and loading."
+        "description": "A unique and nostalgic cultural and creative product designed by the Students' Agency Club."
+      },
+      {
+        "filename": "2025周边拼图.jpg",
+        "title": "Merchandise: Complete Puzzle",
+        "path": "photos/2025周边拼图.jpg",
+        "orientation": "horizontal",
+        "description": "A complete puzzle showcasing the original cultural and creative designs."
+      },
+      {
+        "filename": "2025周边拼图1.jpg",
+        "title": "Merchandise: Puzzle Detail 1",
+        "path": "photos/2025周边拼图1.jpg",
+        "orientation": "horizontal",
+        "description": "Close-up view of the original cultural and creative puzzle design."
+      },
+      {
+        "filename": "2025周边拼图2.jpg",
+        "title": "Merchandise: Puzzle Detail 2",
+        "path": "photos/2025周边拼图2.jpg",
+        "orientation": "horizontal",
+        "description": "Close-up view of the original cultural and creative puzzle design."
+      },
+      {
+        "filename": "2025周边拼图3.jpg",
+        "title": "Merchandise: Puzzle Detail 3",
+        "path": "photos/2025周边拼图3.jpg",
+        "orientation": "vertical",
+        "description": "Close-up view of the original cultural and creative puzzle design."
+      },
+      {
+        "filename": "2025周边饭卡套.jpg",
+        "title": "Merchandise: Custom Meal Card Holder",
+        "path": "photos/2025周边饭卡套.jpg",
+        "orientation": "horizontal",
+        "description": "A customized phone card case designed by the Students' Agency Club."
+      },
+      {
+        "filename": "2025周边数据线.jpg",
+        "title": "Merchandise: Portable Charging Cable",
+        "path": "photos/2025周边数据线.jpg",
+        "orientation": "vertical",
+        "description": "A convenient and stylish data cable designed by the Students' Agency Club."
+      },
+      {
+        "filename": "2025周边马克杯.jpg",
+        "title": "2025 Merchandise: Mug",
+        "path": "photos/2025周边马克杯.jpg",
+        "orientation": "vertical",
+        "description": "A custom mug featuring the Students' News Agency designs."
       }
     ],
     "title_en": "2025 New Year Celebration & Charity Bazaar",
@@ -280,17 +315,17 @@
   {
     "id": "event-2025-recruitment",
     "year": 2025,
-    "date": "2025年 秋季",
-    "title": "2025-2026学年 招新宣传",
-    "category": "社团招新",
+    "date": "Fall 2025",
+    "title": "2025-2026 Recruitment Campaign",
+    "category": "Club Recruitment",
     "cover": "photos/2025-2026招新.png",
-    "summary": "光影之间，创收作物。欢迎新一代通讯人加入。",
+    "summary": "Between light and shadow, we gather stories. Join the next generation of student media makers.",
     "description": "The 2025-2026 academic year recruitment campaign for the Students' Agency Club.",
     "keyPersons": [],
     "photos": [
       {
         "filename": "2025-2026招新.png",
-        "title": "2025-2026招新海报",
+        "title": "2025-2026 Recruitment Poster",
         "path": "photos/2025-2026招新.png",
         "orientation": "vertical",
         "description": "Official promotional poster for the 2025-2026 recruitment campaign."
@@ -302,13 +337,170 @@
     "summary_en": "\"Between Light and Shadow, We Harvest Stories.\" A vibrant call for incoming students passionate about writing, editing, and photography."
   },
   {
+    "id": "event-2025-science-festival-report",
+    "year": 2025,
+    "date": "2025-2026 Academic Year",
+    "title": "Science & Technology Festival News Report",
+    "category": "Campus Event Coverage",
+    "cover": "photos/2025科技节cover.png",
+    "summary": "A news report documenting the school’s Science and Technology Festival.",
+    "description": "Reporting on the school’s Science and Technology Festival.",
+    "articleUrl": "https://mp.weixin.qq.com/s/n_eKgTiw7qUtrJCvUFFi6g",
+    "keyPersons": [],
+    "photos": [
+      {
+        "filename": "2025科技节cover.png",
+        "title": "Science Festival News Report Cover",
+        "path": "photos/2025科技节cover.png",
+        "orientation": "horizontal",
+        "description": "Cover image for the Science Festival news report."
+      }
+    ],
+    "title_en": "Science & Technology Festival News Report",
+    "category_en": "Campus Event Coverage",
+    "date_en": "2025-2026 Academic Year",
+    "summary_en": "A news report covering the school science and technology festival."
+  },
+  {
+    "id": "event-2026-new-year-charity-sale",
+    "year": 2026,
+    "date": "2026",
+    "title": "2026 New Year Charity Sale",
+    "category": "New Year & Charity Sale",
+    "cover": "photos/2026新年义卖.jpg",
+    "summary": "A photo record of the 2026 New Year charity sale.",
+    "description": "A photo record of the 2026 New Year charity sale.",
+    "keyPersons": [],
+    "photos": [
+      {
+        "filename": "2026新年义卖.jpg",
+        "title": "2026 New Year Charity Sale",
+        "path": "photos/2026新年义卖.jpg",
+        "orientation": "horizontal",
+        "description": "2026 New Year charity sale."
+      },
+      {
+        "filename": "2026新年义卖合照.jpg",
+        "title": "2026 New Year Charity Sale Group Photo",
+        "path": "photos/2026新年义卖合照.jpg",
+        "orientation": "horizontal",
+        "description": "Photograph from the 2026 New Year charity sale activity."
+      },
+      {
+        "filename": "2026新年义卖手写贺卡.jpg",
+        "title": "Handwritten Cards at the 2026 New Year Charity Sale",
+        "path": "photos/2026新年义卖手写贺卡.jpg",
+        "orientation": "horizontal",
+        "description": "Photograph from the 2026 New Year charity sale activity."
+      },
+      {
+        "filename": "2026新年义卖李子悦李星逸合照.jpg",
+        "title": "Ziyue Li and Xingyi Li at the 2026 New Year Charity Sale",
+        "path": "photos/2026新年义卖李子悦李星逸合照.jpg",
+        "orientation": "horizontal",
+        "description": "Photograph from the 2026 New Year charity sale activity."
+      },
+      {
+        "filename": "2026新年义卖李子悦照片.jpg",
+        "title": "Ziyue Li at the 2026 New Year Charity Sale",
+        "path": "photos/2026新年义卖李子悦照片.jpg",
+        "orientation": "horizontal",
+        "description": "Photograph from the 2026 New Year charity sale activity."
+      },
+      {
+        "filename": "2026新年义卖照片.jpg",
+        "title": "2026 New Year Charity Sale",
+        "path": "photos/2026新年义卖照片.jpg",
+        "orientation": "horizontal",
+        "description": "Photograph from the 2026 New Year charity sale activity."
+      },
+      {
+        "filename": "2026新年义卖照片2.jpg",
+        "title": "2026 New Year Charity Sale 2",
+        "path": "photos/2026新年义卖照片2.jpg",
+        "orientation": "horizontal",
+        "description": "Photograph from the 2026 New Year charity sale."
+      },
+      {
+        "filename": "2026新年义卖照片3.jpg",
+        "title": "2026 New Year Charity Sale 3",
+        "path": "photos/2026新年义卖照片3.jpg",
+        "orientation": "horizontal",
+        "description": "Photograph from the 2026 New Year charity sale."
+      },
+      {
+        "filename": "2026新年义卖装货.jpg",
+        "title": "Packing for the 2026 New Year Charity Sale",
+        "path": "photos/2026新年义卖装货.jpg",
+        "orientation": "horizontal",
+        "description": "Photograph from the 2026 New Year charity sale activity."
+      },
+      {
+        "filename": "2026新年义卖装货1.jpg",
+        "title": "Packing for the 2026 New Year Charity Sale 2",
+        "path": "photos/2026新年义卖装货1.jpg",
+        "orientation": "vertical",
+        "description": "Photograph from the 2026 New Year charity sale activity."
+      },
+      {
+        "filename": "2026新年义卖装货_李子悦.jpg",
+        "title": "Ziyue Li Packing for the 2026 New Year Charity Sale",
+        "path": "photos/2026新年义卖装货_李子悦.jpg",
+        "orientation": "horizontal",
+        "description": "Photograph from the 2026 New Year charity sale activity."
+      }
+    ],
+    "title_en": "2026 New Year Charity Sale",
+    "category_en": "New Year & Charity Sale",
+    "date_en": "Year 2026",
+    "summary_en": "A photo record of the 2026 New Year charity sale."
+  },
+  {
+    "id": "event-2026-heart-charity-sale",
+    "year": 2026,
+    "date": "2026",
+    "title": "2026 Charity Sale",
+    "category": "Charity Sale",
+    "cover": "photos/2026爱心义卖.jpg",
+    "summary": "A photo record of the 2026 charity sale.",
+    "description": "A photo record of the 2026 charity sale.",
+    "keyPersons": [],
+    "photos": [
+      {
+        "filename": "2026爱心义卖.jpg",
+        "title": "2026 Charity Sale",
+        "path": "photos/2026爱心义卖.jpg",
+        "orientation": "horizontal",
+        "description": "2026 charity sale."
+      },
+      {
+        "filename": "2026爱心义卖双人合照.jpg",
+        "title": "Pair Portrait at the 2026 Charity Sale",
+        "path": "photos/2026爱心义卖双人合照.jpg",
+        "orientation": "horizontal",
+        "description": "Photograph from the 2026 charity sale activity."
+      },
+      {
+        "filename": "2026爱心义卖大合照.jpg",
+        "title": "Group Photo at the 2026 Charity Sale",
+        "path": "photos/2026爱心义卖大合照.jpg",
+        "orientation": "horizontal",
+        "description": "Photograph from the 2026 charity sale activity."
+      }
+    ],
+    "title_en": "2026 Charity Sale",
+    "category_en": "Charity Sale",
+    "date_en": "Year 2026",
+    "summary_en": "A photo record of the 2026 charity sale."
+  },
+  {
     "id": "event-2026-recruitment",
     "year": 2026,
-    "date": "2026年",
-    "title": "2026-2027学年 招新与双社长交接",
-    "category": "社团招新",
+    "date": "2026",
+    "title": "2026-2027 Recruitment & Co-President Handover",
+    "category": "Club Recruitment",
     "cover": "photos/2026-2027招新双社长.jpg",
-    "summary": "双社长亮相招新现场，薪火相传迈向崭新纪元。",
+    "summary": "The incoming co-presidents welcomed new members, carrying the agency into its next chapter.",
     "description": "The 2026-2027 academic year recruitment campaign and the handover of the dual club president positions for the Students' Agency Club.",
     "keyPersons": [
       "Ziyue Li",
@@ -317,21 +509,21 @@
     "photos": [
       {
         "filename": "2026-2027招新.jpg",
-        "title": "2026-2027招新现场",
+        "title": "2026-2027 Recruitment Event",
         "path": "photos/2026-2027招新.jpg",
         "orientation": "horizontal",
         "description": "Photo capturing the vibrant atmosphere of the 2026-2027 recruitment event for the Students' Agency Club."
       },
       {
         "filename": "2026-2027招新双社长.jpg",
-        "title": "2026-2027招新双社长合影",
+        "title": "2026-2027 Co-Presidents",
         "path": "photos/2026-2027招新双社长.jpg",
         "orientation": "horizontal",
         "description": "Group photo of the dual club presidents at the 2026-2027 recruitment event for the Students' Agency Club."
       },
       {
         "filename": "2026-2027招新自拍.jpg",
-        "title": "招新现场自拍花絮",
+        "title": "Recruitment Event Behind the Scenes",
         "path": "photos/2026-2027招新自拍.jpg",
         "orientation": "horizontal",
         "description": "Behind-the-scenes photos from the 2026-2027 recruitment event for the Students' Agency Club."
@@ -343,83 +535,156 @@
     "summary_en": "The next generation of dual presidents stepped forward at the recruitment booths, ushering the agency into an exciting era."
   },
   {
-    "id": "event-merchandise",
-    "year": "文创特辑",
-    "date": "原创文创系列",
-    "title": "学通社 独家原创文创周边",
-    "category": "文创衍生",
-    "cover": "photos/周边汇总照片.jpg",
-    "summary": "反转胶片、文创拼图、定制饭卡套与数据线，把学通社的记忆做成实物。",
-    "description": "A collection of original cultural and creative products designed by the Students' Agency Club.",
+    "id": "event-2026-technology-talk",
+    "year": 2026,
+    "date": "2026",
+    "title": "2026 Technology Presentation",
+    "category": "Technology Event",
+    "cover": "photos/2026技术宣讲活动.png",
+    "summary": "A technology presentation for students.",
+    "description": "A technology presentation for students.",
     "keyPersons": [],
     "photos": [
       {
-        "filename": "周边汇总照片.jpg",
-        "title": "文创周边大集合",
-        "path": "photos/周边汇总照片.jpg",
+        "filename": "2026技术宣讲活动.png",
+        "title": "2026 Technology Presentation Cover",
+        "path": "photos/2026技术宣讲活动.png",
+        "orientation": "vertical",
+        "description": "Cover image for the 2026 technology presentation."
+      }
+    ],
+    "title_en": "2026 Technology Presentation",
+    "category_en": "Technology Event",
+    "date_en": "Year 2026",
+    "summary_en": "A technology presentation event."
+  },
+  {
+    "id": "event-merchandise",
+    "year": "Merchandise Collection",
+    "date": "Original Merchandise Collection",
+    "title": "2025-2026 Original Agency Merchandise",
+    "category": "Merchandise Collection",
+    "cover": "photos/2025周边汇总照片.jpg",
+    "summary": "A collection of original agency merchandise from 2025 and 2026, including film cards, puzzles, and everyday items.",
+    "description": "A collection of original merchandise designed by the Students’ Agency in 2025 and 2026.",
+    "keyPersons": [],
+    "photos": [
+      {
+        "filename": "2025周边汇总照片.jpg",
+        "title": "Agency Merchandise Collection",
+        "path": "photos/2025周边汇总照片.jpg",
         "orientation": "vertical",
         "description": "A comprehensive showcase of all the original cultural and creative products."
       },
       {
-        "filename": "周边反转胶片.jpg",
-        "title": "文创周边-反转胶片",
-        "path": "photos/周边反转胶片.jpg",
+        "filename": "2025周边反转胶片.jpg",
+        "title": "Merchandise: Reversal Film Card",
+        "path": "photos/2025周边反转胶片.jpg",
         "orientation": "horizontal",
         "description": "A unique and nostalgic cultural and creative product designed by the Students' Agency Club."
       },
       {
-        "filename": "周边拼图.jpg",
-        "title": "文创周边-拼图整图",
-        "path": "photos/周边拼图.jpg",
+        "filename": "2025周边拼图.jpg",
+        "title": "Merchandise: Complete Puzzle",
+        "path": "photos/2025周边拼图.jpg",
         "orientation": "horizontal",
         "description": "A complete puzzle showcasing the original cultural and creative designs."
       },
       {
-        "filename": "周边拼图1.jpg",
-        "title": "文创周边-拼图细节1",
-        "path": "photos/周边拼图1.jpg",
+        "filename": "2025周边拼图1.jpg",
+        "title": "Merchandise: Puzzle Detail 1",
+        "path": "photos/2025周边拼图1.jpg",
         "orientation": "horizontal",
         "description": "Close-up view of the original cultural and creative puzzle design."
       },
       {
-        "filename": "周边拼图2.jpg",
-        "title": "文创周边-拼图细节2",
-        "path": "photos/周边拼图2.jpg",
+        "filename": "2025周边拼图2.jpg",
+        "title": "Merchandise: Puzzle Detail 2",
+        "path": "photos/2025周边拼图2.jpg",
         "orientation": "horizontal",
         "description": "Close-up view of the original cultural and creative puzzle design."
       },
       {
-        "filename": "周边拼图3.jpg",
-        "title": "文创周边-拼图细节3",
-        "path": "photos/周边拼图3.jpg",
+        "filename": "2025周边拼图3.jpg",
+        "title": "Merchandise: Puzzle Detail 3",
+        "path": "photos/2025周边拼图3.jpg",
         "orientation": "vertical",
         "description": "Close-up view of the original cultural and creative puzzle design."
       },
       {
-        "filename": "周边饭卡套.jpg",
-        "title": "文创周边-定制饭卡套",
-        "path": "photos/周边饭卡套.jpg",
+        "filename": "2025周边饭卡套.jpg",
+        "title": "Merchandise: Custom Meal Card Holder",
+        "path": "photos/2025周边饭卡套.jpg",
         "orientation": "horizontal",
         "description": "A customized phone card case designed by the Students' Agency Club."
       },
       {
-        "filename": "周边数据线.jpg",
-        "title": "文创周边-便携数据线",
-        "path": "photos/周边数据线.jpg",
+        "filename": "2025周边数据线.jpg",
+        "title": "Merchandise: Portable Charging Cable",
+        "path": "photos/2025周边数据线.jpg",
         "orientation": "vertical",
         "description": "A convenient and stylish data cable designed by the Students' Agency Club."
       },
       {
-        "filename": "周边照片.jpg",
-        "title": "文创周边-纪念洗印照片",
-        "path": "photos/周边照片.jpg",
+        "filename": "2025周边马克杯.jpg",
+        "title": "2025 Merchandise: Mug",
+        "path": "photos/2025周边马克杯.jpg",
         "orientation": "vertical",
-        "description": "A collection of memorable moments captured during the 2026-2027 recruitment event for the Students' Agency Club."
+        "description": "A custom mug featuring the Students' News Agency designs."
+      },
+      {
+        "filename": "2026周边便利贴.JPG",
+        "title": "2026 Merchandise: Sticky Notes",
+        "path": "photos/2026周边便利贴.JPG",
+        "orientation": "vertical",
+        "description": "2026 custom merchandise: sticky notes."
+      },
+      {
+        "filename": "2026周边定制可乐.JPG",
+        "title": "2026 Merchandise: Custom Cola",
+        "path": "photos/2026周边定制可乐.JPG",
+        "orientation": "vertical",
+        "description": "2026 custom merchandise: custom cola."
+      },
+      {
+        "filename": "2026周边帆布包.JPG",
+        "title": "2026 Merchandise: Canvas Tote",
+        "path": "photos/2026周边帆布包.JPG",
+        "orientation": "horizontal",
+        "description": "2026 custom merchandise: canvas tote."
+      },
+      {
+        "filename": "2026周边文件夹.JPG",
+        "title": "2026 Merchandise: Folder",
+        "path": "photos/2026周边文件夹.JPG",
+        "orientation": "horizontal",
+        "description": "2026 custom merchandise: folder."
+      },
+      {
+        "filename": "2026周边日历.JPG",
+        "title": "2026 Merchandise: Calendar",
+        "path": "photos/2026周边日历.JPG",
+        "orientation": "vertical",
+        "description": "2026 custom merchandise: calendar."
+      },
+      {
+        "filename": "2026周边明信片.JPG",
+        "title": "2026 Merchandise: Postcard",
+        "path": "photos/2026周边明信片.JPG",
+        "orientation": "horizontal",
+        "description": "2026 custom merchandise: postcard."
+      },
+      {
+        "filename": "2026周边胶片透卡.JPG",
+        "title": "2026 Merchandise: Film Transparency Card",
+        "path": "photos/2026周边胶片透卡.JPG",
+        "orientation": "vertical",
+        "description": "2026 custom merchandise: film transparency card."
       }
     ],
-    "title_en": "Exclusive Original Cultural & Creative Merchandise",
+    "title_en": "2025-2026 Original Cultural & Creative Merchandise",
     "category_en": "Merchandise Series",
     "date_en": "Special Collection",
-    "summary_en": "Reversal film strips, commemorative jigsaw puzzles, customized meal card sleeves, and data cables turning campus memories into tangible souvenirs."
+    "summary_en": "A collection of the Students’ Agency original merchandise from 2025 and 2026, including film cards, puzzles, and everyday items."
   }
 ]

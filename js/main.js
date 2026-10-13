@@ -444,12 +444,17 @@ document.addEventListener("DOMContentLoaded", async () => {
     const date = ev.date_en || ev.date;
     const desc = ev.description || ev.summary_en || ev.summary;
     const photos = ev.photos || [];
+    const articleLink = document.getElementById("modalArticleLink");
 
     modalTitle.textContent = title;
     modalTag.textContent = category;
     modalDate.textContent = date;
     modalHeadline.textContent = title;
     modalDesc.textContent = desc;
+    if (articleLink) {
+      articleLink.href = ev.articleUrl || "";
+      articleLink.hidden = !ev.articleUrl;
+    }
 
     if (modalKeyPersons) {
       modalKeyPersons.textContent =

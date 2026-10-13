@@ -203,6 +203,15 @@ body {
   background: var(--orange-1);
 }
 
+.hero-brand {
+  margin: 0 0 10px;
+  color: var(--orange-1);
+  font-size: clamp(30px, 5vw, 52px);
+  font-weight: 900;
+  letter-spacing: -0.035em;
+  line-height: 1.1;
+}
+
 .small-team {
   font-size: clamp(24px, 4vw, 42px);
   font-weight: 800;
@@ -413,6 +422,41 @@ body {
 .stats-intro h3 em {
   font-style: italic;
   color: var(--orange-1);
+}
+
+.about-section {
+  padding: 20px 48px 80px;
+  position: relative;
+  z-index: 10;
+}
+
+.about-inner {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 52px 56px;
+  display: grid;
+  grid-template-columns: minmax(240px, 0.8fr) minmax(0, 1.2fr);
+  align-items: start;
+  gap: 56px;
+  background: #faf6ee;
+  border: 1px solid var(--line);
+  border-radius: 28px;
+  box-shadow: var(--shadow-sm);
+}
+
+.about-copy {
+  color: var(--mute);
+  font-size: 15px;
+  line-height: 1.8;
+}
+
+.about-copy strong {
+  color: var(--ink);
+  font-weight: 800;
+}
+
+.about-copy p + p {
+  margin-top: 14px;
 }
 
 .stat-block {
@@ -893,20 +937,20 @@ body {
 .footer-inner {
   max-width: 1200px;
   margin: 0 auto;
-  display: flex;
-  justify-content: space-between;
+  display: grid;
+  grid-template-columns: minmax(240px, 1fr) auto;
   align-items: center;
-  flex-wrap: wrap;
-  gap: 24px;
+  column-gap: 48px;
+  row-gap: 24px;
 }
 
-.footer-left {
+.footer-brand {
   display: flex;
   align-items: center;
   gap: 14px;
 }
 
-.footer-left img {
+.footer-brand img {
   height: 42px;
   width: auto;
   object-fit: contain;
@@ -914,13 +958,61 @@ body {
   opacity: 0.95;
 }
 
-.footer-motto {
+.footer-brand-name {
   font-size: 13px;
+  color: #e7e7e9;
+}
+
+.footer-contact {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.footer-contact-label {
+  color: var(--orange-1);
+  font-size: 10px;
+  font-weight: 800;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+}
+
+.footer-contact-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px 32px;
+}
+
+.footer-contact-item {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  font-size: 12px;
+}
+
+.footer-contact-item strong {
+  color: #e7e7e9;
+  font-weight: 700;
+}
+
+.footer-contact-item strong span {
+  color: #8e8f96;
+  font-weight: 500;
+}
+
+.footer-contact-item a {
   color: #bababa;
-  line-height: 1.4;
+  text-decoration: none;
+}
+
+.footer-contact-item a:hover {
+  color: #fff;
+  text-decoration: underline;
 }
 
 .footer-copy {
+  grid-column: 1 / -1;
+  justify-self: end;
   font-size: 12px;
   color: #63636b;
 }
@@ -1076,6 +1168,23 @@ body {
   color: var(--modal-mute);
   margin-bottom: 30px;
   white-space: pre-line;
+}
+
+.modal-article-link {
+  display: inline-block;
+  margin: -12px 0 28px;
+  color: #b8f34a;
+  font-size: 13px;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.modal-article-link:hover {
+  text-decoration: underline;
+}
+
+.modal-article-link[hidden] {
+  display: none;
 }
 
 .modal-side-meta-block {
@@ -1318,6 +1427,18 @@ body {
 }
 
 @media (max-width: 768px) {
+  .footer-inner {
+    grid-template-columns: 1fr;
+    align-items: start;
+  }
+  .footer-contact-list {
+    flex-direction: column;
+    gap: 12px;
+  }
+  .footer-copy {
+    grid-column: 1;
+    justify-self: start;
+  }
   .hero {
     padding: 110px 20px 40px;
   }
@@ -1330,6 +1451,14 @@ body {
   }
   .timeline-section, .team-section, .stats {
     padding: 50px 20px;
+  }
+  .about-section {
+    padding: 0 20px 50px;
+  }
+  .about-inner {
+    grid-template-columns: 1fr;
+    gap: 20px;
+    padding: 32px 26px;
   }
   .section-header {
     flex-direction: column;
