@@ -336,10 +336,8 @@ document.addEventListener("DOMContentLoaded", async () => {
           filtered = activitiesData.filter((ev) => ev.year === 2023);
         } else if (activeFilter === "2024") {
           filtered = activitiesData.filter((ev) => ev.year === 2024);
-        } else if (activeFilter === "2025") {
-          filtered = activitiesData.filter((ev) => ev.year === 2025);
-        } else if (activeFilter === "2026") {
-          filtered = activitiesData.filter((ev) => ev.year === 2026);
+        } else if (activeFilter === "2025-current") {
+          filtered = activitiesData.filter((ev) => ev.year >= 2025 && ev.year <= 2027);
         } else if (activeFilter === "merchandise") {
           filtered = activitiesData.filter((ev) => ev.id === "event-merchandise");
         }
