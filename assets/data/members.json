@@ -54,6 +54,60 @@
     ]
   },
   {
+    "term": "2025-2026 Academic Year",
+    "year": 2025,
+    "theme": "Leadership & Continuity",
+    "term_en": "2025-2026 Academic Year",
+    "theme_en": "Leadership & Continuity",
+    "leadership": [
+      {
+        "name": "李星逸",
+        "name_en": "Xingyi Li",
+        "role": "Co-President · Visual Design & Photography",
+        "role_en": "Co-President · Visual Design & Photography",
+        "avatar": "photos/XingyiLi.png",
+        "desc": "Leading visual identity, official posters, branding, and photography curation.",
+        "desc_en": "Leading visual identity, official posters, branding, and photography curation."
+      },
+      {
+        "name": "李子悦",
+        "name_en": "Ziyue Li",
+        "role": "Co-President · Operations & Events",
+        "role_en": "Co-President · Operations & Events",
+        "avatar": "photos/2026新年义卖装货_李子悦.jpg",
+        "desc": "Directing overall agency operations, event strategies, and editorial initiatives.",
+        "desc_en": "Directing overall agency operations, event strategies, and editorial initiatives."
+      },
+      {
+        "name": "李鋆灏",
+        "name_en": "Junhao Li",
+        "role": "Vice President",
+        "role_en": "Vice President",
+        "avatar": "photos/Junhao_Li.png",
+        "desc": "Overseeing event execution, field reporting, and staff coordination.",
+        "desc_en": "Overseeing event execution, field reporting, and staff coordination."
+      },
+      {
+        "name": "张效瑜",
+        "name_en": "Xiaoyu Zhang",
+        "role": "Vice President",
+        "role_en": "Vice President",
+        "avatar": "photos/xiaoyuzhang.png",
+        "desc": "Directing multimedia outreach, inter-school media partnerships, and digital channels.",
+        "desc_en": "Directing multimedia outreach, inter-school media partnerships, and digital channels."
+      },
+      {
+        "name": "盛子瑜",
+        "name_en": "Ziyu Sheng",
+        "role": "Vice President (2025-2027)",
+        "role_en": "Vice President (2025-2027)",
+        "avatar": "photos/ZiyuSheng.png",
+        "desc": "Leads publicity and event execution.",
+        "desc_en": "Leads publicity and event execution."
+      }
+    ]
+  },
+  {
     "term": "2024-2025 Academic Year",
     "year": 2024,
     "theme": "Expansion & Flourish",
